@@ -53,7 +53,6 @@ module GasStats
   end
 
   def self.update_key(key)
-    puts 'Updating stats for ' + key
     if @config[key]
       @config[key] = @config[key].to_i + 1
     else

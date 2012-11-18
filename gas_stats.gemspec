@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--charset=UTF-8"]
   s.extra_rdoc_files = %w[README.md LICENSE]
 
-  s.add_dependency 'gas', '~> 1.0.0'
+  s.add_dependency 'gas', '~> 1.0.2'
 
   s.add_development_dependency 'rake'
   s.add_development_dependency 'bundler'
