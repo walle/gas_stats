@@ -1,6 +1,6 @@
 # Gas stats
 
-Gem to keep track of your usage of [gas](https://github.com/walle/gas).
+Gem to keep track of your usage of [gas](http://walle.github.com/gas/).
 
 Reference implementation of a plugin to gas.
 
